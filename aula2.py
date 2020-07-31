@@ -138,7 +138,6 @@ print(contador)
 print(somar(2,2))
 print(contador)
 
-
 """Crie uma função que faça a soma de 3 números e imprima em tela o resultado da
 soma.
 Crie um programa onde a função irá validar o nome e o CPF da pessoa estão
